@@ -9,7 +9,7 @@
     }
 
     .pos {
-        top: -80%;
+        top: -70%;
         color: rgb(100, 100, 100);
     }
 
@@ -20,7 +20,10 @@
     }
 
     .nav1 {
-        top: -220px;
+        left: 0;
+        right: 0;
+        z-index: 5;
+        bottom: 450px;
     }
 
     .co {
@@ -211,7 +214,10 @@
     }
 
     .nav1 {
-        top: -400px;
+        left: 0;
+        right: 0;
+        z-index: 5;
+        bottom: 430px;
     }
 
     .co {
@@ -391,6 +397,23 @@
         color: rgb(100, 100, 100);
     }
 
+    .custom-position {
+        top: 5px;
+        left: 80px;
+
+    }
+
+    .nav1 {
+        left: 0;
+        right: 0;
+        z-index: 5;
+        bottom: 430px;
+    }
+
+    .co {
+        color: #38f0b6;
+    }
+
     .color1 {
         background-color: #22eaaa;
         /* width: 250px;
@@ -562,6 +585,23 @@
     .pos {
         top: -80%;
         color: rgb(100, 100, 100);
+    }
+
+    .custom-position {
+        top: 5px;
+        left: 80px;
+
+    }
+
+    .nav1 {
+        left: 0;
+        right: 0;
+        z-index: 5;
+        bottom: 430px;
+    }
+
+    .co {
+        color: #38f0b6;
     }
 
     .color1 {
@@ -767,6 +807,23 @@
         color: rgb(100, 100, 100);
     }
 
+    .custom-position {
+        top: 5px;
+        left: 80px;
+
+    }
+
+    .nav1 {
+        left: 0;
+        right: 0;
+        z-index: 5;
+        bottom: 430px;
+    }
+
+    .co {
+        color: #38f0b6;
+    }
+
     .color1 {
         background-color: #22eaaa;
         /* width: 250px;
@@ -938,6 +995,23 @@
     .pos {
         top: -80%;
         color: rgb(100, 100, 100);
+    }
+
+    .custom-position {
+        top: 5px;
+        left: 80px;
+
+    }
+
+    .nav1 {
+        left: 0;
+        right: 0;
+        z-index: 5;
+        bottom: 800px;
+    }
+
+    .co {
+        color: #38f0b6;
     }
 
     .color1 {
